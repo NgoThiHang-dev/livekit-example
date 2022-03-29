@@ -1,0 +1,30 @@
+/* ._34YL4:last-child{
+    grid-column: 1 / 3;
+    grid-row: 1;
+    width: 50% !important;
+} */
+._2sm4e{ 
+    flex-direction: column;
+}
+._2VE66{
+    display: unset;
+}
+._1smc2{
+    display: unset;
+}
+._gA0MQ{ 
+    grid-column:unset;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    grid-auto-rows: unset;
+    overflow-y: hidden;
+    justify-content: center;
+}
+._2kKDi{
+    display: none;
+}
+._34YL4{
+    width: 49% !important;
+}
+
